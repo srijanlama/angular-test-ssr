@@ -9,5 +9,5 @@ Run `ng run dev:ssr` for a dev server.
 ## Build
 
 Run `ng build:ssr` to build the project. 
-cd node /dist/server.js
+node /dist/server.js
 
